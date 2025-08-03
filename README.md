@@ -123,3 +123,4 @@ To give users a quick, in-depth view of Netflix’s catalog while maintaining fl
 4. Interact using the dropdown filters to find specific titles or types.
 
  
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/dca9bc29-3ed7-40b8-bd3f-6cbe75df797f" />
