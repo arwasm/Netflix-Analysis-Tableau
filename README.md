@@ -1,5 +1,4 @@
 # Netflix-Analysis-Tableau
-Here’s a professional, well-structured **README** for your Tableau Netflix project, including a detailed explanation of each worksheet and the final dashboard. You can copy this directly into your GitHub repo or portfolio:
 
 ---
 
